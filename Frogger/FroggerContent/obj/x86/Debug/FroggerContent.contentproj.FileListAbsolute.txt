@@ -1,0 +1,5 @@
+F:\ISC3\Assignment\A3\Frogger\Frogger\FroggerContent\obj\x86\Debug\FroggerContent.contentprojResolveAssemblyReference.cache
+D:\ISC3\Assignment\A3\Frogger\Frogger\FroggerContent\obj\x86\Debug\FroggerContent.contentprojResolveAssemblyReference.cache
+D:\ISC3\Assignment\A3\Frogger\Frogger\FroggerContent\obj\x86\Debug\FroggerContent.contentproj.CoreCompileInputs.cache
+C:\Users\benro\Desktop\ISC3 (4)\ISC3\Assignment\A3\Frogger\Frogger\FroggerContent\obj\x86\Debug\FroggerContent.contentprojResolveAssemblyReference.cache
+C:\Users\benro\Desktop\ISC3 (4)\ISC3\Assignment\A3\Frogger\Frogger\FroggerContent\obj\x86\Debug\FroggerContent.contentproj.CoreCompileInputs.cache

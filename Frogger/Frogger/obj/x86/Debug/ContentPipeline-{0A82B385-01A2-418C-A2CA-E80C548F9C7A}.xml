@@ -1,0 +1,381 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Images\Background\froggerBackground.png</Source>
+      <Name>Images\Background\froggerBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\benro\Desktop\ISC3 (4)\ISC3\Assignment\A3\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Background\froggerBackground.xnb</Output>
+      <Time>2018-05-14T22:51:52-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Sprites\frogIdle.png</Source>
+      <Name>Images\Sprites\frogIdle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\benro\Desktop\ISC3 (4)\ISC3\Assignment\A3\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Sprites\frogIdle.xnb</Output>
+      <Time>2018-04-30T11:55:38-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Sprites\frogJump.png</Source>
+      <Name>Images\Sprites\frogJump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\benro\Desktop\ISC3 (4)\ISC3\Assignment\A3\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Sprites\frogJump.xnb</Output>
+      <Time>2018-04-30T11:56:10-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Sprites\frogIdleDown.png</Source>
+      <Name>Images\Sprites\frogIdleDown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\benro\Desktop\ISC3 (4)\ISC3\Assignment\A3\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Sprites\frogIdleDown.xnb</Output>
+      <Time>2018-05-07T11:55:24-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Sprites\frogIdleLeft.png</Source>
+      <Name>Images\Sprites\frogIdleLeft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\benro\Desktop\ISC3 (4)\ISC3\Assignment\A3\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Sprites\frogIdleLeft.xnb</Output>
+      <Time>2018-05-07T11:55:10-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Sprites\frogIdleRight.png</Source>
+      <Name>Images\Sprites\frogIdleRight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\benro\Desktop\ISC3 (4)\ISC3\Assignment\A3\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Sprites\frogIdleRight.xnb</Output>
+      <Time>2018-05-07T11:54:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Sprites\frogJumpDown.png</Source>
+      <Name>Images\Sprites\frogJumpDown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\benro\Desktop\ISC3 (4)\ISC3\Assignment\A3\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Sprites\frogJumpDown.xnb</Output>
+      <Time>2018-05-07T12:03:28-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Sprites\frogJumpLeft.png</Source>
+      <Name>Images\Sprites\frogJumpLeft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\benro\Desktop\ISC3 (4)\ISC3\Assignment\A3\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Sprites\frogJumpLeft.xnb</Output>
+      <Time>2018-05-07T12:03:12-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Sprites\frogJumpRight.png</Source>
+      <Name>Images\Sprites\frogJumpRight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\benro\Desktop\ISC3 (4)\ISC3\Assignment\A3\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Sprites\frogJumpRight.xnb</Output>
+      <Time>2018-05-07T12:02:56-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Sprites\carFive.png</Source>
+      <Name>Images\Sprites\carFive</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\benro\Desktop\ISC3 (4)\ISC3\Assignment\A3\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Sprites\carFive.xnb</Output>
+      <Time>2018-05-09T11:48:30-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Sprites\carFour.png</Source>
+      <Name>Images\Sprites\carFour</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\benro\Desktop\ISC3 (4)\ISC3\Assignment\A3\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Sprites\carFour.xnb</Output>
+      <Time>2018-05-09T11:44:22-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Sprites\carOne.png</Source>
+      <Name>Images\Sprites\carOne</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\benro\Desktop\ISC3 (4)\ISC3\Assignment\A3\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Sprites\carOne.xnb</Output>
+      <Time>2018-05-09T11:46:04-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Sprites\carThree.png</Source>
+      <Name>Images\Sprites\carThree</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\benro\Desktop\ISC3 (4)\ISC3\Assignment\A3\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Sprites\carThree.xnb</Output>
+      <Time>2018-05-09T11:41:48-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Sprites\carTwo.png</Source>
+      <Name>Images\Sprites\carTwo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\benro\Desktop\ISC3 (4)\ISC3\Assignment\A3\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Sprites\carTwo.xnb</Output>
+      <Time>2018-05-09T11:47:14-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Sprites\deathSpritesheet.png</Source>
+      <Name>Images\Sprites\deathSpritesheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\benro\Desktop\ISC3 (4)\ISC3\Assignment\A3\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Sprites\deathSpritesheet.xnb</Output>
+      <Time>2018-05-11T01:58:28-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Sprites\bigLog.png</Source>
+      <Name>Images\Sprites\bigLog</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\benro\Desktop\ISC3 (4)\ISC3\Assignment\A3\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Sprites\bigLog.xnb</Output>
+      <Time>2018-05-14T17:17:54-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Sprites\mediumLog.png</Source>
+      <Name>Images\Sprites\mediumLog</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\benro\Desktop\ISC3 (4)\ISC3\Assignment\A3\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Sprites\mediumLog.xnb</Output>
+      <Time>2018-05-14T17:18:16-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Sprites\smallLog.png</Source>
+      <Name>Images\Sprites\smallLog</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\benro\Desktop\ISC3 (4)\ISC3\Assignment\A3\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Sprites\smallLog.xnb</Output>
+      <Time>2018-05-14T17:18:42-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Sprites\turtle.png</Source>
+      <Name>Images\Sprites\turtle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\benro\Desktop\ISC3 (4)\ISC3\Assignment\A3\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Sprites\turtle.xnb</Output>
+      <Time>2018-05-14T17:23:48-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Sprites\lives.png</Source>
+      <Name>Images\Sprites\lives</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\benro\Desktop\ISC3 (4)\ISC3\Assignment\A3\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Sprites\lives.xnb</Output>
+      <Time>2018-05-14T22:54:30-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Sprites\timer.png</Source>
+      <Name>Images\Sprites\timer</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\benro\Desktop\ISC3 (4)\ISC3\Assignment\A3\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Sprites\timer.xnb</Output>
+      <Time>2018-05-14T23:24:42-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Sprites\turtleSpritesheet.png</Source>
+      <Name>Images\Sprites\turtleSpritesheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\benro\Desktop\ISC3 (4)\ISC3\Assignment\A3\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Sprites\turtleSpritesheet.xnb</Output>
+      <Time>2018-05-17T17:31:18.5768272-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\font.spritefont</Source>
+      <Name>Fonts\font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\benro\Desktop\ISC3 (4)\ISC3\Assignment\A3\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Fonts\font.xnb</Output>
+      <Time>2018-05-17T19:40:30.7462729-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Music\music.mp3</Source>
+      <Name>Audio\Music\music</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\benro\Desktop\ISC3 (4)\ISC3\Assignment\A3\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Audio\Music\music.xnb</Output>
+      <Extra>C:\Users\benro\Desktop\ISC3 (4)\ISC3\Assignment\A3\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Audio\Music\music.wma</Extra>
+      <Time>2018-05-17T16:42:01.7059462-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\SoundEffects\hopSound.wav</Source>
+      <Name>Audio\SoundEffects\hopSound</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\benro\Desktop\ISC3 (4)\ISC3\Assignment\A3\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Audio\SoundEffects\hopSound.xnb</Output>
+      <Time>2018-05-17T17:54:21.5188954-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\SoundEffects\loseSound.wav</Source>
+      <Name>Audio\SoundEffects\loseSound</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\benro\Desktop\ISC3 (4)\ISC3\Assignment\A3\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Audio\SoundEffects\loseSound.xnb</Output>
+      <Time>2018-05-17T16:38:55.3232994-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\SoundEffects\padLandSound.wav</Source>
+      <Name>Audio\SoundEffects\padLandSound</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\benro\Desktop\ISC3 (4)\ISC3\Assignment\A3\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Audio\SoundEffects\padLandSound.xnb</Output>
+      <Time>2018-05-17T18:17:23.4514296-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\SoundEffects\splashSound.wav</Source>
+      <Name>Audio\SoundEffects\splashSound</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\benro\Desktop\ISC3 (4)\ISC3\Assignment\A3\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Audio\SoundEffects\splashSound.xnb</Output>
+      <Time>2018-05-17T17:54:29.8995812-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\SoundEffects\squashSound.wav</Source>
+      <Name>Audio\SoundEffects\squashSound</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\benro\Desktop\ISC3 (4)\ISC3\Assignment\A3\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Audio\SoundEffects\squashSound.xnb</Output>
+      <Time>2018-05-17T17:54:51.1370718-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\SoundEffects\timeOutSound.wav</Source>
+      <Name>Audio\SoundEffects\timeOutSound</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\benro\Desktop\ISC3 (4)\ISC3\Assignment\A3\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Audio\SoundEffects\timeOutSound.xnb</Output>
+      <Time>2018-05-17T17:54:39.4311128-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\SoundEffects\winSound.wav</Source>
+      <Name>Audio\SoundEffects\winSound</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\benro\Desktop\ISC3 (4)\ISC3\Assignment\A3\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Audio\SoundEffects\winSound.xnb</Output>
+      <Time>2018-05-17T16:37:24.10593-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Sprites\logo.png</Source>
+      <Name>Images\Sprites\logo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\benro\Desktop\ISC3 (4)\ISC3\Assignment\A3\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Sprites\logo.xnb</Output>
+      <Time>2018-05-17T18:42:24.3768724-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Sprites\playGame.png</Source>
+      <Name>Images\Sprites\playGame</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\benro\Desktop\ISC3 (4)\ISC3\Assignment\A3\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Sprites\playGame.xnb</Output>
+      <Time>2018-05-17T18:45:42.6049816-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Sprites\quitIcon.png</Source>
+      <Name>Images\Sprites\quitIcon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\benro\Desktop\ISC3 (4)\ISC3\Assignment\A3\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Sprites\quitIcon.xnb</Output>
+      <Time>2018-05-17T18:44:32.6377563-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Sprites\scoresIcon.png</Source>
+      <Name>Images\Sprites\scoresIcon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\benro\Desktop\ISC3 (4)\ISC3\Assignment\A3\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Sprites\scoresIcon.xnb</Output>
+      <Time>2018-05-17T18:43:34.4186379-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\winLoseFont.spritefont</Source>
+      <Name>Fonts\winLoseFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\benro\Desktop\ISC3 (4)\ISC3\Assignment\A3\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Fonts\winLoseFont.xnb</Output>
+      <Time>2018-05-17T19:55:10.2322018-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Sprites\menuIcon.png</Source>
+      <Name>Images\Sprites\menuIcon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\benro\Desktop\ISC3 (4)\ISC3\Assignment\A3\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Sprites\menuIcon.xnb</Output>
+      <Time>2018-05-17T22:52:42.7914517-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{0A82B385-01A2-418C-A2CA-E80C548F9C7A}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\benro\Desktop\ISC3 (4)\ISC3\Assignment\A3\Frogger\Frogger\FroggerContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\benro\Desktop\ISC3 (4)\ISC3\Assignment\A3\Frogger\Frogger\Frogger\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\benro\Desktop\ISC3 (4)\ISC3\Assignment\A3\Frogger\Frogger\Frogger\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\benro\Desktop\ISC3 (4)\ISC3\Assignment\A3\Frogger\Frogger\Frogger\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2018-04-22T13:19:40.1655654-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
